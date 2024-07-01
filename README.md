@@ -2,19 +2,16 @@
 
 I'm a software engineer with years of experience working in the financial sector. I currently lead a team developing microservice APIs behind customer facing applications and infrastructure using SpringBoot and Java/J2EE. I have previously worked with automation and process improvement projects within fraud and security, and before that, developed solutions to complex problems within high-volume, customer-serving applications used by countless banking customers. With my help, my teams design efficient, effective, and scalable software solutions.
 
+---
+
 As a strong advocate for mentoring, continued learning, and education, leadership centered in ongoing innovation and professional growth is paramount. Mentoring provides individuals with the support and guidance necessary to navigate complex career paths, enhancing skill development and professional confidence. Effective leadership cultivates a culture of collaboration, encouraging diverse perspectives that drive teams toward achieving a common goal. Creating an environment where colleagues want to learn and innovate ensures that we stay current with the latest technological advancements and strive to constantly raise the bar of possibilities. When everyone wants to learn, we create a foundation for personal and organizational success, empowering individuals to contribute meaningfully to their current roles as well as the technology industry's progress.
 
+---
+
+### 🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="Groovy Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"><br />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50">
 <!--
 **mkrachanko/mkrachanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
